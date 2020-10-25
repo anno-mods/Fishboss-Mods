@@ -1,0 +1,56 @@
+{
+  "Version": "2.0.6",
+  "ModID": "Fishboss_Train-Stations_2",
+  "Category": {
+    "English": "Ornamental",
+    "German": "Zierobjekte"
+  },
+  "ModName": {
+    "English": "Train-Stations and Hotels",
+    "German": "Bahnhöfe und Hotels"
+  },
+  "Description": {
+    "English": "This mod adds new buildings:
+
+-the central stations: produce travelers who want to be taken to the small train stations. A central station can supply up to 3 or 4 small stations, depending on logistical circumstances. (unlocked at 1000 engineers)
+
+-The small train station: produces letters for the chief post office (unlocked at 1000 engineers)
+
+-The hotels: accommodate tourists and have an impact on surrounding residences: + 10% more inhabitants and + 10% more income (activated at 1000 investors)
+
+-The investor residences: have an impact on surrounding residences: -3% less consumption of all goods and +5 satisfaction (unlocked at 1200 tourists)
+
+-the chief post office: satisfies the need for post of tourists and the market
+
+The Central station even provide oil (takes it from storage of isle) to supply your powerplants.
+
+In addition the look of the train has been modified and a wagon for transportation of travelers has been added.
+
+!!!This mod is compatible with already existing savegames. No Unlocker is needed!!!
+
+After you installed the mod, you can find the new buildings in the added train-station-building-menu in the engineer-building-menu (train icon).",
+    "German": "Dieser Mod fügt neue Gebäude hinzu: 
+
+-die Hauptbahnhöfe: produzieren Reisende, welche zu den kleinen Bahnhöfen gebracht werden wollen. Ein Hauptbahnhof kann bis zu 3 oder 4 kleine Bahnhöfe beliefern, abhängig von logistischen Umständen. (freigeschalten ab 1000 Ingenieuren)
+
+-der kleine Bahnhof: produziert Briefe für das Hauptpostamt (freigeschalten ab 1000 Ingenieuren)
+
+-die Hotels: beherbergen Touristen und haben einen Einfluss auf umliegende Residenzen: +10% mehr Einwohner und +10% mehr Einnahmen (freigeschalten ab 1000 Investoren)
+
+-die Investor-Residenzen: haben einen Einfluss auf umliegende Residenzen: -3% weniger Verbrauch von allen Gütern und +5 Zufriedenheit (freigeschalten ab 1200 Touristen)
+
+-das Hauptpostamt: stillt das Bedürfnis nach Post der Touristen und Markt
+
+Es ist möglich die zwei Zug-systeme miteinander zu kombinieren: Das Öl-System und das Reisenden-System. Die Züge können beides zur selben Zeit transportieren. Die Versorgung von zugabhängigen Gebäuden ist aber mit seperaten Systemen besser abgesichert.
+
+Die Hauptbahnhöfe können zusätzlich auch Öl zur Verfügung stellen, um eure Kraftwerke damit zu versorgen.
+
+Außerdem wurde das Aussehen des Zuges verändert und ein Waggon für die Beförderung der Reisenden wurde hinzugefügt.
+
+!!!Dieser Mod ist mit bereits vorher gestarteten Savegames kompatibel. Es wird kein Unlocker benötigt!!!
+
+Nachdem der Mod installiert wurde, befinden sich die neuen Gebäude in einem neuen Baumenü im Ingenieurs-Baumenü (Zug Symbol)."
+  },
+  "CreatorName": "Fishboss",
+  "CreatorContact": "https://www.reddit.com/u/fishboss987/"
+}

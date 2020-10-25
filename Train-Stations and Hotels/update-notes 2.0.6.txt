@@ -1,0 +1,11 @@
+Update 2.0.5 Notes:
+
+  Inventions
+
+  - now there are hotels buildable without radius
+
+  Bugfixes:
+  
+  - make mod compatible with the mod Old-town 1.4 and Harborlife (Spice-it-up 3.0!)
+
+
