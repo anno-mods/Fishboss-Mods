@@ -1,0 +1,30 @@
+{
+  "Version": "1.4.1",
+  "ModID": "Fishboss_Archibalds_Castle_smooth",
+  "Category": {
+    "English": "Ornamental",
+    "German": "Zierobjekte"
+  },
+  "ModName": {
+    "English": "Archibalds Castle (smooth)",
+    "German": "Archibalds Schloss (glatt)"
+  },
+  "Description": {
+    "English": "This Mod adds 11 modular buildable parts of a castle into the game (1 greater main building 2 main-buildings and 8 side-buildings), unlocked at 750 investors. The castle mainly consists of buildings from Archibald Blake (3rd Party) and some parts of other buldings.
+
+Explanation: You got the choice! Do you want a straight castle but with an offset between the individual modules OR a crooked castle but with smooth connections between the modules
+
+After you installed the mod, you can find the castle at the building-menu of investors (castle icon).
+
+Just push Shift + v for choosing between the individual main-buildings (left icon) or side-buildings (right icon).",
+    "German": "Diese Mod fügt 11 Teile eines modular baubaren Schlosses hinzu (1 großes Hauptgebäude, 2 Hauptgebäude und 8 Nebengebäude), welches ab 750 Investoren freigeschalten ist. Das Schloss besteht hauptsächlich aus Gebäuden von Archibald Blake (3rd Party) und Teilen anderer Gebäude.
+
+Erklärung: Ihr habt die Wahl! Wollt ihr ein gerades Schloß aber mit Absätzen zwischen den einzelnen Modulen ODER ein leicht schiefes Schloss mit glatten Übergängen zwischen dn einzelnen Modulen
+
+Nachdem ihr den Mod installiert habt, findet ihr das Schloss im Baumenü der Investoren (Schloss-Symbol).
+
+Drückt Shift + v um zwischen den einzelnen Hauptgebäuden (linkes Symbol) und Nebengebäuden (rechtes Symbol) auszuwählen."
+  },
+  "CreatorName": "Fishboss",
+  "CreatorContact": "https://www.reddit.com/u/fishboss987/"
+}
