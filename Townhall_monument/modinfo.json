@@ -1,0 +1,31 @@
+{
+  "Version": "1.0.2",
+  "ModID": "Fishboss_Townhall_monument",
+  "Category": {
+    "English": "Gameplay",
+    "German": "Spielablauf",
+    "Polish": "Rozgrywka"
+  },
+  "ModName": {
+    "English": "Townhall monument",
+    "German": "Rathaus-Denkmal"
+  },
+  "Description": {
+    "English": "This mod adds a special townhall, which you can build up in 3 stages. To compesate it's size it has some advantages compared to a normal townhall. 
+It does have a much wider radius and 6 slots for items/specialists (scroll up/down). The model is based on the Hamburg City Hall (not 100 % faithful).
+You need 7500 investors to unlock this building.
+
+!!!This mod is compatible with already existing savegames. No Unlocker is needed!!!
+
+After you installed the mod, you can find the townhall-monument in the investors-building-menu.",
+    "German": "Dieser Mod fügt ein spezielles Rathaus hinzu, das Sie in 3 Stufen aufbauen können. Um seine Größe zu kompensieren, hat es einige Vorteile gegenüber einem normalen Rathaus.
+Es hat einen viel größeren Radius und 6 Plätze für Items / Spezialisten (scrollen). Das Modell basiert auf dem Hamburger Rathaus (nicht 100% originalgetreu).
+Dieses gebäude wird ab 7500 Investoren freigeschaltet.
+
+!!!Dieser Mod ist mit bereits vorher gestarteten Savegames kompatibel. Es wird kein Unlocker benötigt!!!
+
+Nachdem der Mod installiert wurde, befindet sich das Rathaus im Ingenieurs-Baumenü."
+  },
+  "CreatorName": "Fishboss",
+  "CreatorContact": "https://www.reddit.com/u/fishboss987/"
+}
