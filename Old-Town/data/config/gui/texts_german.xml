@@ -1,0 +1,96 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>859988</GUID>
+      <Text>Altstadt II</Text>
+    </Text>
+    <Text>
+      <GUID>859993</GUID>
+      <Text>Altstadt III</Text>
+    </Text>
+    <Text>
+      <GUID>850016</GUID>
+      <Text>Altstadt-Villa</Text>
+    </Text>
+    <Text>
+      <GUID>850017</GUID>
+      <Text>Altstadt-Prachthaus</Text>
+    </Text>
+    <Text>
+      <GUID>850020</GUID>
+      <Text>Schauspielhaus</Text>
+    </Text>
+    <Text>
+      <GUID>850021</GUID>
+      <Text>Senat</Text>
+    </Text>
+    <Text>
+      <GUID>850018</GUID>
+      <Text>Höhere Kultur</Text>
+    </Text>
+    <Text>
+      <GUID>850019</GUID>
+      <Text>Macht</Text>
+    </Text>
+    <Text>
+      <GUID>850022</GUID>
+      <Text>Gasthaus</Text>
+    </Text>
+    <Text>
+      <GUID>850023</GUID>
+      <Text>Triumphbogen</Text>
+    </Text>
+    <Text>
+      <GUID>850024</GUID>
+      <Text>Altes Rathaus</Text>
+    </Text>
+    <Text>
+      <GUID>850025</GUID>
+      <Text>Ein Andenken an deine erfolgreiche Errichtung einer Stadt</Text>
+    </Text>
+    <Text>
+      <GUID>850034</GUID>
+      <Text>Kaiser-Dom</Text>
+    </Text>
+    <Text>
+      <GUID>850035</GUID>
+      <Text>Dieses monumentale Gotteshaus wird, wenn es einmal fertig gestellt ist, die vergangenen prachtvollen Jahrhunderte ihrer Stadt symbolisieren</Text>
+    </Text>
+    <Text>
+      <GUID>850038</GUID>
+      <Text>Kaiser-Dom</Text>
+    </Text>
+    <Text>
+      <GUID>850055</GUID>
+      <Text>Altstadt-Bürgerhaus</Text>
+    </Text>
+    <Text>
+      <GUID>850056</GUID>
+      <Text>Ärztehaus</Text>
+    </Text>
+    <Text>
+      <GUID>859943</GUID>
+      <Text>Altstadt I</Text>
+    </Text>
+    <Text>
+      <GUID>850062</GUID>
+      <Text>Altstadt-Haus</Text>
+    </Text>
+    <Text>
+      <GUID>850063</GUID>
+      <Text>Altstadt-Haus</Text>
+    </Text>
+    <Text>
+      <GUID>850064</GUID>
+      <Text>Altstadt-Haus</Text>
+    </Text>
+    <Text>
+      <GUID>850066</GUID>
+      <Text>Gasthaus</Text>
+    </Text>
+    <Text>
+      <GUID>850065</GUID>
+      <Text>Altstadt-Markt</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,127 @@
+{
+  "Version": "1.4",
+  "ModID": "Fishboss_Old-Town",
+  "IncompatibleIds": "Spice_BuildMenuCleanup",
+  "Category": {
+    "English": "Ornamental",
+    "German": "Zierobjekte"
+  },
+  "ModName": {
+    "English": "Old-Town",
+    "German": "Altstadt"
+  },
+  "Description": {
+    "English": "This mod adds some buildings from Anno 1701, 1404 and even 1503. Engineers and investors have a new building need, which can be satisfied by the added buildings.
+
+Engineers have the need for higher culture, which is satisfied by the opera.
+
+For investors, the need for power comes, which is satisfied by the Senate.
+
+Farmer-menu:
+
+	- Old-town-marketplace (unlocked at 1 farmer) a different variation of the normal marketplace
+
+	- Old-town-houses (unlocked at 1 farmer) can be build beside normal houses and will be upgrated to special variations of old-town-houses
+
+	- a new variation of pub is buildable (shift+v)
+
+Worker-menu:
+
+	- The inn (unlocked at 750 workers) pubs in radius gets +20 attractiveness and +50% higher range
+
+	- a new variation of church is buildable (shift+v)
+
+Artisian-menu:
+
+	 Old-town I -menu:
+
+		- Oldtown-townhouse (unlocked at 600 artisians) can be build beside normal houses and will be upgrated to special variations of old-town-houses
+
+		- Doctors building (unlocked at 600 artisians) a small version of the hospital
+
+Engineers-menu:
+
+	Old-town II -menu:
+
+		- Oldtown-mansion (unlocked at 1500 engineers) can be build beside normal houses and will be upgrated to special variations of old-town-houses
+
+		- Opera (unlocked at 20 old-town mansions)
+
+Investors-menu:
+
+	Old-town III -menu
+
+		- Oldtown-villa (unlocked at 2500 investors) can be build beside normal houses
+
+		- Senate (unlocked at 20 old-town villas)
+
+		- new Townhall (unlocked at 2500 investors) has a higher radius and one more slot (home/end button)
+
+		- Triumphal arch (unlocked at 2500 investors) a road connection can be established (Shift + v for right and left side)
+
+		- Imperial Cathedral (Monument, unlocked at 7500 investors, last stage unlocked at 12500 investors):
+
+			- satisfies the need of the church, higher culture and power
+
+			- All buildings on the island get +5 satisfaction, -5% consumption of all goods, -20% illness, -20% insurrection
+
+!!! This mod is compatible with previously started savegames. No unlocker is needed !!!",
+    "German": "Dieser Mod fügt einige Gebäude aus Anno 1701, 1404 und sogar 1503 hinzu. Ingenieure und Investoren haben einen neuen Gebäudebedarf, der durch die hinzugefügten Gebäude befriedigt werden kann.
+
+Ingenieure brauchen höhere Kultur, die von der Oper befriedigt wird.
+
+Für Investoren kommt das Bedürfnis nach Macht, das vom Senat befriedigt wird.
+
+Bauernmenü:
+
+	- Altstadt-Markt (mit 1 Bauer freigeschaltet) dient als neue Variante des normalen Marktes
+
+	- Altstadthäuser (mit 1 Bauer freigeschaltet) können neben normalen Häusern gebaut werden und werden auf spezielle Variationen von Altstadthäusern erweitert
+
+	- Eine neue Variante von Pub ist baubar (Shift + V).
+
+Arbeitermenü:
+
+	- Gasthaus (mit 750 Arbeitern freigeschaltet) alle Wirtshäuser im Radius erhalten +20 Attraktivität und + 50% höhere Reichweite
+
+	- Eine neue Variante der Kirche ist baubar (Shift + V).
+
+Handwerkermenü:
+
+	Altstadt I-Menü:
+
+		- Das Altstadt-Bürgerhaus (freigeschaltet bei 600 Handwerkern) kann neben normalen Häusern gebaut werden und wird auf spezielle Variationen von Altstadthäusern erweitert
+
+		- Ärzte-haus (bei 600 Handwerkern freigeschaltet) eine kleine Version des Krankenhauses
+
+Ingenieur-Menü:
+
+	Altstadt II-Menü:
+
+		- Altstadt-Prachtbau (freigeschaltet bei 1500 Ingenieuren) kann neben normalen Häusern gebaut werden und wird auf spezielle Variationen von alten Stadthäusern erweitert
+
+		- Oper (freigeschaltet ab 20 Altstadt-prachtbauten)
+
+Investorenmenü:
+
+	Altstadt III-Menü
+
+		- Oldtown-Villa (freigeschaltet bei 2500 Investoren) kann neben normalen Häusern gebaut werden
+
+		- Senat (freigeschaltet ab 20 Altstadt-villen)
+
+		- Das neue Rathaus (bei 2500 Investoren freigeschaltet) hat einen höheren Radius und einen weiteren Sockelplatz (Home / End-Taste).
+
+		- Triumphbogen (bei 2500 Investoren freigeschaltet) Eine Straßenverbindung kann hergestellt werden (Umschalt + v für rechte und linke Seite).
+
+		- Kaiserdom (Monument, freigeschaltet bei 7500 Investoren, letzte Stufe freigeschaltet bei 12500 Investoren):
+
+			- befriedigt Bedürfnis nach der Kirche, der höheren Kultur und der Macht
+
+			- Alle Gebäude auf der Insel erhalten +5 Zufriedenheit, -5% Verbrauch aller Waren, -20% Krankheit, -20% Aufstand
+
+!!! Dieser Mod ist kompatibel mit zuvor gestarteten Savegames. Es wird kein Unlocker benötigt !!!"
+  },
+  "CreatorName": "Fishboss",
+  "CreatorContact": "https://www.reddit.com/u/fishboss987/"
+}
