@@ -1,0 +1,43 @@
+{
+  "Version": "1.0.1",
+  "ModID": "Fishboss_Historic_harbour",
+  "Category": {
+    "English": "Gameplay",
+    "German": "Spielablauf",
+    "Polish": "Rozgrywka"
+  },
+  "ModName": {
+    "English": "Historic harbour",
+    "German": "Historischer Hafen"
+  },
+  "Description": {
+    "English": "This mod adds 3 new buildings: a new harbor master's office and 2 new warehouses. The appearance of the new building is based on the warehouse district of Hamburg
+
+The new harbor master's office offers a total of 5 slots (push home/end button) and a 50% larger radius
+
+The two warehouses have 30 tons more capacity than a normal warehouse
+
+In return for their advantages, the new buildings are more expensive to maintain and more expensive to build
+
+The new buildings will be unlocked at 3000 engineers
+
+!!! This mod is compatible with previously started savegames. No unlocker is needed !!!
+
+After installation, the new buildings can be found in the engineers harbour construction menu",
+    "German": "Dieser Mod fügt 3 neue Gebäude hinzu: eine neue Hafenmeisterei und 2 neue Lagerhäuser. Das Erscheinungsbild der Gebäude orientiert sich an der Hamburger Speicherstadt
+
+Das neue Hafenmeisterbüro bietet insgesamt 5 Slots (im Menü home/end taste drücken) und einen 50% größeren Radius
+
+Die beiden Lager haben 30 Tonnen mehr Kapazität als ein normales Lager
+
+Im Gegenzug für ihre Vorteile sind die neuen Gebäude teurer in der Instandhaltung und teurer im Bau
+
+Die neuen Gebäude werden bei 3000 Ingenieuren freigeschaltet
+
+!!!Dieser Mod ist mit bereits vorher gestarteten Savegames kompatibel. Es wird kein Unlocker benötigt!!!
+
+Nach der Installation finden Sie die neuen Gebäude im Menü für den Hafenbau der Ingenieure"
+  },
+  "CreatorName": "Fishboss",
+  "CreatorContact": "https://www.reddit.com/u/fishboss987/"
+}
